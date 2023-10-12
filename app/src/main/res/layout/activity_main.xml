@@ -20,8 +20,9 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHeight_percent="0.2"
         app:layout_constraintVertical_chainStyle="packed"
-        android:gravity="end|center"
+        android:gravity="start|center"
         />
+
 
     <LinearLayout
         android:layout_width="0dp"
